@@ -1,0 +1,55 @@
+.main-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 29.487179487179vw;
+  margin-right: 15.487179487179vw;
+  
+}
+.main-main23 {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0px;
+  margin-top: 20.512820512821vw;
+
+  
+
+}
+
+.header-image34 {
+  width: 10vw;
+  height: 11.28205128011vw;
+  padding: 1.025641025vw;
+}
+.firsty {
+  font-family: "Noto Serif Tamil Slanted" Arial, Helvetica, sans-serif;
+  font-size: 6.666666666667vw;
+  width: auto;
+  font-weight: bold;
+  margin: 0px;
+  color: white;
+}
+.thirdy {
+  font-family: "Noto Serif Tamil Slanted" Arial, Helvetica, sans-serif;
+  font-size: 3.076923076823vw;
+  font-weight: SemiBold;
+  color: white;
+  margin: 0px;
+}
+.half-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.header-icon {
+  width: 7.646153846154vw;
+  height: 8.791469194313vw;
+}
+.header-icon2 {
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 0%;
+  border-color: rgba(0, 0, 0, 0);
+}

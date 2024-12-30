@@ -1,0 +1,21 @@
+.div-dobble {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(66, 64, 64);
+  width: 170px;
+  height: 170px;
+  border-radius: 7%;
+}
+.img-1111 {
+  height: 70px;
+  width: 70px;
+  margin-top: 15%;
+}
+.face-0idd {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(177, 169, 169);
+  
+}

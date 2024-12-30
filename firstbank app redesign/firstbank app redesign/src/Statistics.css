@@ -1,0 +1,22 @@
+.stats-div{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2.515384615385vw;
+    justify-content: center;
+    align-items: center;
+}
+.stat-h1{
+   font-size: 3.333333333333vw; 
+   font-weight: bolder;
+   margin-right: 60.33333333333vw;
+   
+   
+}
+.img-stat{
+    width: 2.564102564103vw;
+    height: 1.538461538462vw;
+    margin-right: 3.615384615385vw;
+    margin-top: 0%;
+    
+    
+}

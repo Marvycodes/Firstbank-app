@@ -1,0 +1,57 @@
+.men-camera {
+  position: relative;
+
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 0, 123);
+}
+.men-text {
+  position: absolute;
+  left: 22.051282vw;
+
+  top: 0.453791469vh;
+  
+}
+.men-last {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  left: 77.17435897vw;
+  top: 1.58649vh;
+}
+.men-h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3.076923vw;
+  font-weight: bolder;
+  text-wrap: nowrap;
+  margin-bottom: 3%;
+  color: rgba(210, 215, 227, 0.8);
+}
+.men-h5 {
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 2.5641vw;
+  font-weight: normal;
+  margin-top: 0%;
+  color: rgba(135, 149, 176, 1);
+}
+.men-imgg {
+  position: absolute;
+  left: 3.846153846vw;
+  top: -1.303317535545vh;
+  height: 15.897435vw;
+  width: 15.897435vw;
+  margin-bottom: 12vh;
+}
+.men-history {
+  color: rgba(221, 242, 242, 0.8);
+  margin-right: 0.982vw;
+  font-size: 2.5641vw;
+}
+.immg-homr{
+  width: 2.5641vw;
+
+}

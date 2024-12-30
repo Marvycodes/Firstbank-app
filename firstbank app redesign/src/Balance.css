@@ -1,0 +1,35 @@
+.men-balance {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #748192;
+  margin-top: 15.7251184834vh;
+  margin-left: 10.76923vw;
+}
+.div-balanceh1 {
+  font-size: 3.589743589744vw;
+  color: #98a7ba;
+  margin-left: 2.56410256vw;
+}
+.h2-balance {
+  font-size: 3.589743589744vw;
+  color: #d3dcdf;
+  margin-left: 2.56410256vw;
+}
+.dddr {
+  position: absolute;
+  margin-top: 16vw;
+  margin-left: 10.597435897436vw;
+  background-color: #748192;
+  width: 78.461538461538vw;
+  margin-bottom: 1.3033175vh;
+  border-radius: 10px;
+}
+.fint-nav {
+  position: relative;
+  background-color: aquamarine;
+  height: 9vh;
+  margin-top: 7vh;
+}
+

@@ -1,0 +1,34 @@
+.sort-div {
+  border-radius: 50%;
+  background-color: white;
+  margin-left: 0.16vw;
+  margin-top: 0.16vw;
+
+  width: 10.7692308vw;
+  height: 10.7692308vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.upper-sort {
+  border-radius: 50%;
+  background-color: rgba(1, 11, 37, 0.21);
+
+  width: 11.282051282051vw;
+  height: 11.282051282051vw;
+}
+
+.sort-h1 {
+  font-size: 3.07692308vw;
+}
+.main-sort {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 1.8957346vw;
+}
+.sort-img {
+  width: 5.128205128205vw;
+  height: 5.128205128205vw;
+}

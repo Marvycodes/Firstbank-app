@@ -1,0 +1,27 @@
+.face-id21 {
+  position: relative;
+  display: flex;
+  background-color: #010b25;
+  justify-content: center;
+  align-items: center;
+  width: 85.897435897436vw;
+  height: 9.74358974359vw;
+  margin-left:  5.435897435897vw;
+  border-radius: 1.025641025641vw;
+  margin-top: 0.829383886256vh
+}
+.id-text {
+  font-size: 3.076923076923vw;
+  position: absolute;
+  color: white;
+  left: 32%;
+}
+.face-id2 {
+  width:  85.897435897436vw;
+  height: 4.502369668246vh;
+}
+.finger-print{
+  position: absolute;
+  left: 22%;
+  width: 5.641025641026vw;
+}

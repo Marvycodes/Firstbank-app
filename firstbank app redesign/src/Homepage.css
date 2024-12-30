@@ -1,0 +1,87 @@
+.div-homepage {
+  position: absolute;
+  background: url(./images/homepage.png) no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100px;
+  background-attachment: fixed;
+
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-qt2 {
+  position: absolute;
+  top: 0%;
+  width: 100vw;
+}
+.men-balance {
+  background-color: #748192;
+  height: 7.34597156vh;
+  width: 78.46153846vw;
+  margin-top: 5.7251184834vh;
+  margin-left: 10.76923vw;
+}
+.main-fort {
+  background-color: #ced0d6;
+  width: 100vw;
+  margin-top: 33.3696682%;
+}
+.conthome-div {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+
+  justify-content: space-around;
+  align-content: flex-start;
+}
+.div-dath {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #182c4d;
+}
+.mmain-dart {
+  background-color: aqua;
+  width: 85.769230769231vw;
+  height: 45.384615384615vw;
+
+  margin-left: 7.615384615385vw;
+  margin-bottom: 0.829383886256vh;
+}
+.dart-round {
+  width: 2.307692307692vw;
+  height: 2.307692307692vw;
+  background-color: #cb8500;
+  border-radius: 1px;
+  border-color: #cb8500;
+  border-radius: 50%;
+  margin-left: 3px;
+}
+.darty {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.invisible-div {
+  width: 100vw;
+  height: 9.322274881517vh;
+  background-color: rgba(0, 0, 0, 0);
+}
+.stat-h12 {
+  font-size: 3.333333333333vw;
+  font-weight: bolder;
+  margin-left: 5.215384615385vw;
+}
+.conteeHome {
+  position: relative;
+  background-color: #cb8500;
+  
+}
+

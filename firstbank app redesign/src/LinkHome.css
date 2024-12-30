@@ -1,0 +1,54 @@
+.conthome-div2 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+
+  justify-content: space-around;
+  align-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  margin-top: -45.5%;
+  
+  margin-right: 0.5%;
+}
+.sort-h1111 {
+  font-size: 3.07692308vw;
+  visibility: hidden;
+}
+.sort-div1 {
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 0.16vw;
+    margin-top: 0.56vw;
+  
+    width: 10.7692308vw;
+    height: 10.7692308vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+  }
+  .upper-sort1 {
+    
+    
+  
+    width: 11.282051282051vw;
+    height: 11.282051282051vw;
+    
+
+  }
+  
+
+  .main-sort1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1.8957346vw;
+
+    visibility: hidden;
+    
+  }
+
+
+  

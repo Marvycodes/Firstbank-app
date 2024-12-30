@@ -1,0 +1,29 @@
+.fdfv {
+  width: 26.923076923077vw;
+  height: 26.923076923077vw;
+  background-color: #010b25;
+  border-radius: 1.025641025641vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 1.153846153846vw;
+  
+}
+
+
+.source-test {
+  margin-top: 0px;
+  width: 7.692307692308vw;
+}
+
+.hhhh {
+  font-size: 3.076923076923vw;
+  color: #ffffff;
+  padding-left: 4.615384615385vw;
+  padding-right: 4.615384615385vw;
+  padding-top: 2.369668246445vh;
+  text-align: center;
+  height: auto;
+  margin: 0px;
+}

@@ -1,0 +1,63 @@
+.main-main25 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-top: 6.27962vh;
+  margin-bottom: 0%;
+  background-color: brown;
+}
+.men-home {
+  width: 20px;
+  height: 14px;
+}
+.main-home {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 0%;
+}
+.firsti-home {
+  font-family: "Noto Serif Tamil Slanted" Arial, Helvetica, sans-serif;
+  font-size: 5.64102564vw;
+  color: white;
+  width: auto;
+  font-weight: bold;
+  margin-left: 29.5641vw;
+}
+.thirdi {
+  font-family: "Noto Serif Tamil Slanted" Arial, Helvetica, sans-serif;
+  font-size: 2.56410vw;
+  font-weight: SemiBold;
+  color: white;
+  margin: 0px;
+  float: right;
+}
+.half-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.btn27 {
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 0px;
+
+  width: 0vw;
+  margin-left: 0%;
+  border-color: rgba(0, 0, 0, 0);
+}
+.home-img {
+  margin-left: 28.97435vw;
+  margin-right: 5.384615vw;
+  width: 5.128205vw;
+  
+}
+.img-qt2 {
+ width: 7.3076923vw;
+  
+  margin-left: 3.0vw;
+}

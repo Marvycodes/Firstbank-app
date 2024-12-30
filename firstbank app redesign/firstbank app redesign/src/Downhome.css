@@ -1,0 +1,20 @@
+.downhome-h1 {
+  font-size: 3.076923076923vw;
+  color: white;
+  font-weight: lighter;
+  text-wrap: wrap;
+
+}
+.main-dart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.main-dart:hover{
+  background-color: aqua;
+}
+.img-dart2 {
+  width: 6.410256410256vw;
+  height: 6.410256410256vw;
+}

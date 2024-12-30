@@ -1,0 +1,56 @@
+.hi-t {
+  font-size: 3.589743589744vw;
+  color: rgba(0, 0, 0, 0.6);
+  margin-left: 3.871794871795vw;
+  margin-right: 68.461538461538vw;
+  margin-top: 8.461538461538vw;
+}
+.div-tt {
+  width: 23.076923076923vw;
+  height: 24.358974358974vw;
+  background-color: #ffffff;
+  border-radius: 1.794871794872vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5.12805128205vw;
+  margin-right: 71.794871794872vw;
+}
+.div-t {
+  width: 12.307692307692vw;
+  height: 12.307692307692vh;
+  background-color: #f2a40d;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3.076923076923vw;
+}
+.src-t {
+  width: 5.512820512821vw;
+  height: 5.512820512821vw;
+}
+.hh-type {
+  font-size: 3.461538461538vw;
+  color: #3b414f;
+  margin-left: 4.871794871795vw;
+  margin-right: 50.769230769231vw;
+  margin-top: 10.25641025641vw;
+}
+.div-dathtt {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #182c4d;
+  margin-top: 20.769230769231vw;
+  height: 24.35897435897435vw;
+  width: 100vw;
+}
+.right-divt {
+  position: absolute;
+}
+.ds {
+  position: relative;
+}

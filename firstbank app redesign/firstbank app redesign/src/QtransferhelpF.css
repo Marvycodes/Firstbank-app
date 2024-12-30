@@ -1,0 +1,146 @@
+.hi-t {
+  font-size: 3.589743589744vw;
+  color: rgba(0, 0, 0, 0.6);
+  margin-left: 12.820512820513vw;
+  margin-right: 12.820512820513vw;
+  margin-top: 3.589743589744vw;
+}
+.div-tt {
+  width: 23.076923076923vw;
+  height: 24.358974358974vw;
+  background-color: #ffffff;
+  border-radius: 1.794871794872vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5.12805128205vw;
+  margin-right: 71.794871794872vw;
+}
+.div-t {
+  width: 12.307692307692vw;
+  height: 12.307692307692vh;
+  background-color: #f2a40d;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3.076923076923vw;
+}
+.t-type {
+  font-size: 2.56410256vw;
+  margin-right: 78.2051282vw;
+  margin-top: 8.97435897vw;
+  margin-bottom: 1.53846154vw;
+}
+.src-t {
+  width: 5.512820512821vw;
+  height: 5.512820512821vw;
+}
+.h-type {
+  font-size: 3.461538461538vw;
+  color: #3b414f;
+  margin-left: 24.358974358974vw;
+  margin-right: 24.358974358974vw;
+  margin-top: 8.717948717949vw;
+}
+.div-datht {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #182c4d;
+  margin-top: 9.597641025641025vw;
+  height: 24.35897435897435vw;
+  width: 100vw;
+}
+.right-divt {
+  position: absolute;
+}
+.ds {
+  position: relative;
+}
+.inputF {
+  height: 7.69230769vw;
+  width: 90.6666666667vw;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 0px;
+  border-color: rgba(0, 0, 0, 0);
+  margin-right: -5.12820513vw;
+  margin-left: -5.12820513vw;
+  outline: none;
+}
+.save-btnT {
+  width: 90.2564103vw;
+  margin-top: 13.8461538vw;
+  margin-bottom: 52.3076923vw;
+  margin-left: 0px;
+  font-size: 3.58974359vw;
+  height: 10vw;
+  font-weight: bolder;
+  border-color: rgba(0, 0, 0, 0);
+  border-radius: 5.38461538vw;
+  background-color: #fcb600;
+}
+.Quick-Transfer8 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  top: 11%;
+  left: 0%;
+  width: 100%;
+  height: 90.5%;
+  background-color: #eaeaea;
+}
+
+.div-formT {
+  width: 90.64102564102564vw;
+  height: 0.769230769230769vw;
+  background-color: white;
+}
+
+.inputF:not(:placeholder-shown) {
+  letter-spacing: 0;
+  margin-left: -8%;
+  color: #646464;
+}
+.eye-image2 {
+  position: absolute;
+  right: 2%;
+  top: 60%;
+  color: black;
+}
+.div-dome {
+  position: relative;
+}
+.h2-h2T {
+  position: absolute;
+  top: 30%;
+  font-weight: normal;
+  font-size: 3.461538461538461vw;
+}
+.h2-h1T {
+  font-size: 2.564102564102564vw;
+  position: absolute;
+  top: 5%;
+  font-weight: normal;
+}
+.hh4 {
+  text-align: center;
+  font-size: 15px;
+  font-weight: var(#000000);
+}
+.h5-h5 {
+  position: absolute;
+  top: 85%;
+  font-size: 2.564102564103vw;
+  font-weight: normal;
+  color: #f60068;
+}
+.div-formTf{
+  width: 90.64102564102564vw;
+  height: 0.769230769230769vw;
+  background-color: #f60068 ;
+}

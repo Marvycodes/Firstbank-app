@@ -1,0 +1,23 @@
+ .ball{
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    background-color: aqua;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+ }
+ .hh4{
+    margin-bottom: 0%;
+    margin-top: 60px;
+    font-weight: bolder;
+ }
+ .bolld{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    align-items: center;
+    
+    margin-right: 0%;
+    width: 100%;
+ }

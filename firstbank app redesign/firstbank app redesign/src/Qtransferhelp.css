@@ -1,0 +1,28 @@
+.Quick-Transfer2 {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 20%;
+  margin-left: 0%;
+  width: 100vw;
+  height: 100%;
+  background-color: #eaeaea;
+}
+.Quick-Transfer14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 20%;
+  left: 0%;
+  width: 100vw;
+  height: 100%;
+  background-color: #112d4a;
+}
+
+
+.right-div {
+  position: absolute;
+}

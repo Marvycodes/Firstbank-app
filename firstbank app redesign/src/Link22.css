@@ -1,0 +1,17 @@
+.right-div {
+  position: relative;
+}
+.right-div2 {
+  position: absolute;
+
+  top: 0%;
+}
+.sourcee2-div {
+  display: flex;
+  width: 87.692307692308vw;
+  height: 15.384615384615vw;
+  margin-top: 5.128205128205vw;
+  align-items: center;
+  position: relative;
+  border-radius: 2.051282051282vw;
+}

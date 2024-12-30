@@ -1,0 +1,29 @@
+.sourcee-div {
+  background-color: white;
+  display: flex;
+  width: 87.692307692308vw;
+  height: 15.384615384615vw;
+  margin-top: 5.128205128205vw;
+  align-items: center;
+  position: relative;
+  border-radius: 2.051282051282vw;
+}
+.img-10 {
+  width: 9.74358974359vw;
+  height: 9.74358974359vw;
+  margin-right: 5.128205128205vw;
+  margin-left: 2.564102564103vw;
+}
+.img-11j {
+  width: 4.615384615385vw;
+  height: 4.615384615385vw;
+  margin-right: 0px;
+  position: absolute;
+  right: 2.564102564103vw;
+  color: #878787;
+}
+.h3-33 {
+  font-size: 3.076923076923vw;
+  margin-right: 7.692307692308vw;
+  font-weight: normal;
+}

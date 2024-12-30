@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  
+}
+.header-qt {
+  position: absolute;
+  top: 4%;
+  left: 50vw;
+  width: 43.5vw;
+}
+
+.img-20 {
+  position: absolute;
+  top: 4%;
+  left: 30%;
+  width: 38px;
+  background-color: blue;
+  
+}
+

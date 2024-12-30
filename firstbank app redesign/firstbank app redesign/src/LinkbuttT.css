@@ -1,0 +1,34 @@
+.downhome-h1 {
+  font-size: 3.076923076923vw;
+  color: white;
+  font-weight: lighter;
+}
+.main-dart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0);
+  width: 14.2307692vw;
+}
+
+.img-dart2 {
+  width: 6.410256410256vw;
+  height: 6.410256410256vw;
+}
+.div-dath1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  margin-top: -23.597641025641025vw;
+  height: 24.35897435897435vw;
+  width: 100vw;
+}
+.downhome-h11 {
+  font-size: 3.076923076923vw;
+  color: white;
+  font-weight: lighter;
+  visibility: hidden;
+}
